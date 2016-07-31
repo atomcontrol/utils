@@ -1,0 +1,16 @@
+{
+  "name": "atom-utils",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "libnmap": "^0.2.33",
+    "node-dash-button": "^0.5.5",
+    "request": "^2.74.0",
+    "speedtest-net": "^1.2.7"
+  }
+}
